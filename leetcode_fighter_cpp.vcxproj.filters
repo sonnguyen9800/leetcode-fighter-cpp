@@ -18,5 +18,8 @@
     <ClCompile Include="leetcode_fighter_cpp.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="array_hashing\contains_duplicate\contains_duplicate.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
